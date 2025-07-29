@@ -2,7 +2,7 @@
 
 A full-stack banking analytics project using **Power BI**, **MySQL**, **Python**, and **Excel** to analyze client behavior, assess loan risk, and create interactive dashboards for data-driven decision-making.
 
-![Dashboard Overview](./Images/dashboard-summary.png)
+![Dashboard Overview](./Images/summary-dashboard.png)
 
 ---
 
