@@ -163,7 +163,7 @@ banking-risk-analytics-dashboard/
 
 **Sandeep Yelikatte**  
 Data Analyst | Power BI | Python | SQL | MySQL  
-📧 sandeep@example.com  
+📧 Portfolio - https://portfolio-tau-taupe-39.vercel.app/  
 🔗 [GitHub](https://github.com/sandeepgoud1215) | [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
